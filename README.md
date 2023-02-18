@@ -1,1 +1,1 @@
-This project is under sortfing array
+This project is all about sorting algorithms 
